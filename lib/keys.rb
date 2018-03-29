@@ -9,5 +9,5 @@ def get_the_keys(groceries)
    meat: ["chicken", "steak", "salmon"],
    grains: ["rice", "pasta"]
   }
-  groceries.values
+  groceries.keys
 end
